@@ -77,7 +77,7 @@
 
 **ESP32-WROOM-32 -> Power Supply**
 
-* 3V3 -> 3V3
+* 3V3 -> 5V
 * GND -> GND
 
 ### Power Supply
